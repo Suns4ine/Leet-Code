@@ -3,8 +3,8 @@
 
 ##### Easy
 - [x] [Two sum](Easy/TwoSum.swift)
-- [x] [Palindrome Number](Easy/Palindrome\ Number.swift) 
-- [x] [Roman to Integer](Easy/Roman\ to\ Integer.swift) 
+- [x] [Palindrome Number](Easy/Palindrome Number.swift) 
+- [x] [Roman to Integer](Easy/Roman to Integer.swift) 
 
 
 ##### Medium
