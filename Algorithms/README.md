@@ -10,6 +10,8 @@
 - [x] [Remove Duplicates from Sorted Array](Easy/Remove-Duplicates-from-Sorted-Array.swift)
 - [x] [Remove Element](Easy/Remove-Element.swift)
 - [x] [Search Insert Position](Easy/Search-Insert-Position.swift)
+- [x] [Length of Last Word](Easy/Length-of-Last-Word.swift)
+- [x] [Maximum Subarray](Easy/Maximum-Subarray.swift)
 ##### Medium 🤔
 
 ##### Hard 🥺
