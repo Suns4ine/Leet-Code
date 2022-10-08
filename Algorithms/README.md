@@ -12,7 +12,7 @@
 - [x] [Search Insert Position](Easy/Search-Insert-Position.swift)
 - [x] [Length of Last Word](Easy/Length-of-Last-Word.swift)
 - [x] [Maximum Subarray](Easy/Maximum-Subarray.swift)
-- [x] [Maximum Subarray](Easy/First\ Bad\ Version.swift)
+- [x] [Maximum Subarray](Easy/First-Bad-Version.swift)
 ##### Medium 🤔
 
 ##### Hard 🥺
