@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-8_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Challanges-11_Complete-orange.svg) 
 
 ##### Easy 🤓
 - [x] [Two sum](Easy/TwoSum.swift)
@@ -12,6 +12,7 @@
 - [x] [Search Insert Position](Easy/Search-Insert-Position.swift)
 - [x] [Length of Last Word](Easy/Length-of-Last-Word.swift)
 - [x] [Maximum Subarray](Easy/Maximum-Subarray.swift)
+- [x] [Maximum Subarray](Easy/First\ Bad\ Version.swift)
 ##### Medium 🤔
 
 ##### Hard 🥺
