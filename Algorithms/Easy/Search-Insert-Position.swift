@@ -9,31 +9,20 @@ import Foundation
 
 class Solution {
     func searchInsert(_ nums: [Int], _ target: Int) -> Int {
-    var resIndex = 0
-    var low = 0
-    var high = nums.count - 1
-    
-    while low <= high {
-        
-        let index = (low + high)/2
-        
-        if nums[index] == target {
-            return index
+        guard !nums.isEmpty else { return 0 }
+        var left = 0
+        var right = nums.count - 1
+
+        while left < right {
+            let index = (left + right) / 2
+
+            if nums[index] >= target {
+                right = index
+            } else {
+                left = index + 1
+            }
         }
-        
-        if target > nums[low] {
-            resIndex = low + 1
-        } else {
-            resIndex = low
-        }
-        
-        if nums[index] > target {
-            high = index - 1
-        } else if nums[index] < target {
-            low = index + 1
-        }
-    }
-    
-    return resIndex
+
+        return nums[left] < target && left == nums.count - 1 ? left + 1 : left
     }
 }
