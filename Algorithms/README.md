@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-26_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Challanges-29_Complete-orange.svg) 
 
 ##### Easy 🤓
 - [x] [Two sum](Easy/TwoSum.swift)
@@ -27,8 +27,11 @@
 - [x] [Check If N and Its Double Exist](Easy/Check-If-N-and-Its-Double-Exist.swift)
 - [x] [Count Negative Numbers in a Sorted Matrix](Easy/Count-Negative-Numbers-in-a-Sorted-Matrix.swift)
 - [x] [Find the Distance Value Between Two Arrays](Easy/Find-the-Distance-Value-Between-Two-Arrays.swift)
+- [x] [Kth Missing Positive Number](Easy/Kth-Missing-Positive-Number.swift)
+- [x] [Find Target Indices After Sorting Array](Easy/Find-Target-Indices-After-Sorting-Array.swift)
 
 ##### Medium 🤔
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
+- [x] [Break a Palindrome](Medium/Break a Palindrome.swift)
 
 ##### Hard 🥺
