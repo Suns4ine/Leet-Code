@@ -32,6 +32,6 @@
 
 ##### Medium 🤔
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
-- [x] [Break a Palindrome](Medium/Break a Palindrome.swift)
+- [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 
 ##### Hard 🥺
