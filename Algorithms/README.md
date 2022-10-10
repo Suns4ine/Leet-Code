@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-29_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Challanges-32_Complete-orange.svg) 
 
 ##### Easy 🤓
 - [x] [Two sum](Easy/TwoSum.swift)
@@ -29,6 +29,9 @@
 - [x] [Find the Distance Value Between Two Arrays](Easy/Find-the-Distance-Value-Between-Two-Arrays.swift)
 - [x] [Kth Missing Positive Number](Easy/Kth-Missing-Positive-Number.swift)
 - [x] [Find Target Indices After Sorting Array](Easy/Find-Target-Indices-After-Sorting-Array.swift)
+- [x] [Plus One](Easy/Plus-One.swift)
+- [x] [Reverse String](Easy/Reverse-String.swift)
+- [x] [Reverse Words in a String III](Easy/Reverse-Words-in-a-String-III.swift)
 
 ##### Medium 🤔
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)

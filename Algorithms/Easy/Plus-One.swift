@@ -9,23 +9,21 @@ import Foundation
 
 class Solution {
     func plusOne(_ digits: [Int]) -> [Int] {
-        var resultArray = digits
-        var count = digits.count - 1
+        guard !digits.isEmpty else { return [1] }
+        var arr = digits
+        var index = digits.count - 1
         
-        while count >= 0 {
-            if resultArray[count] == 9 {
-                resultArray[count] = 0
-                if count == 0 {
-                    resultArray.insert(1, at: 0)
-                    break
-                }
+        while index >= 0 {
+            if arr[index] <= 8 {
+                arr[index] = arr[index] + 1
+                return arr
             } else {
-                resultArray[count] += 1
-                break
+                arr[index] = 0
             }
-            count -= 1
+            index -= 1
         }
-    
-    return resultArray
+        
+        arr.insert(1, at: 0)
+        return arr
     }
 }
