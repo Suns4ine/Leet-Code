@@ -32,9 +32,14 @@
 - [x] [Plus One](Easy/Plus-One.swift)
 - [x] [Reverse String](Easy/Reverse-String.swift)
 - [x] [Reverse Words in a String III](Easy/Reverse-Words-in-a-String-III.swift)
+- [x] [Move Zeroes](Easy/Move-Zeroes.swift)
+- [x] [Middle of the Linked List](Easy/Middle-of-the-Linked-List.swift)
 
 ##### Medium 🤔
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
+- [x] [Rotate Array](Medium/Rotate-Array.swift)
 
 ##### Hard 🥺
+
+
