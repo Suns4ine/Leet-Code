@@ -28,7 +28,7 @@ class Solution {
     }
     
     func isIndex(_ array: [Int], max: Int,  numb: Int) -> Int {
-        guard !array.isEmpty else { return -1 }
+        guard !array.isEmpty else { return 0 }
         var left = 0
         var right = max - 1
         
@@ -61,7 +61,7 @@ class Solution {
     }
     
     func isIndex(_ array: [Int], numb: Int) -> Int {
-        guard !array.isEmpty else { return -1 }
+        guard !array.isEmpty else { return 0 }
         var left = 0
         var right = array.count - 1
         

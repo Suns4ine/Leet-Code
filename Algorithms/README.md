@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-38_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Solutions-38_Complete-orange.svg) 
 
-##### Easy 🤓
+##### Easy 🤓 ![Algorithms](https://img.shields.io/badge/Problems-36_Complete-green.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -35,14 +35,18 @@
 - [x] [Move Zeroes](Easy/Move-Zeroes.swift)
 - [x] [Middle of the Linked List](Easy/Middle-of-the-Linked-List.swift)
 - [x] [Merge Sorted Array](Easy/Merge-Sorted-Array.swift)
+- [x] [Merge Two Sorted Lists](Easy/Merge-Two-Sorted-Lists.swift)
+- [x] [Remove Duplicates from Sorted List](Easy/Remove-Duplicates-from-Sorted-List.swift)
+- [x] [Climbing Stairs](Easy/Climbing-Stairs.swift)
 
-##### Medium 🤔
+##### Medium 🤔 ![Algorithms](https://img.shields.io/badge/Problems-6_Complete-green.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
 - [x] [Add Two Numbers](Medium/Add-Two-Numbers.swift)
 - [x] [Increasing Triplet Subsequence](Medium/Increasing-Triplet-Subsequence.swift)
+- [x] [Find the Index of the First Occurrence in a String](Medium/Find-the-Index-of-the-First-Occurrence-in-a-String.swift)
 
-##### Hard 🥺
+##### Hard 🥺 ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
 
 
