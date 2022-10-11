@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-32_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Challanges-38_Complete-orange.svg) 
 
 ##### Easy 🤓
 - [x] [Two sum](Easy/TwoSum.swift)
@@ -34,11 +34,14 @@
 - [x] [Reverse Words in a String III](Easy/Reverse-Words-in-a-String-III.swift)
 - [x] [Move Zeroes](Easy/Move-Zeroes.swift)
 - [x] [Middle of the Linked List](Easy/Middle-of-the-Linked-List.swift)
+- [x] [Merge Sorted Array](Easy/Merge-Sorted-Array.swift)
 
 ##### Medium 🤔
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
+- [x] [Add Two Numbers](Medium/Add-Two-Numbers.swift)
+- [x] [Increasing Triplet Subsequence](Medium/Increasing-Triplet-Subsequence.swift)
 
 ##### Hard 🥺
 
