@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Solutions-38_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Solutions-43_Complete-orange.svg) 
 
-##### Easy 🤓 ![Algorithms](https://img.shields.io/badge/Problems-36_Complete-green.svg) 
+##### Easy 🤓 ![Algorithms](https://img.shields.io/badge/Problems-37_Complete-green.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
