@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Solutions-43_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-43_Complete-orange.svg) 
 
-##### Easy 🤓 ![Algorithms](https://img.shields.io/badge/Problems-37_Complete-green.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-37_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -38,15 +38,22 @@
 - [x] [Merge Two Sorted Lists](Easy/Merge-Two-Sorted-Lists.swift)
 - [x] [Remove Duplicates from Sorted List](Easy/Remove-Duplicates-from-Sorted-List.swift)
 - [x] [Climbing Stairs](Easy/Climbing-Stairs.swift)
+- [x] [Single Number](Easy/Single-Number.swift)
+- [x] [Linked List Cycle](Easy/Linked-List-Cycle.swift)
+- [x] [Contains Duplicate](Easy/Contains-Duplicate.swift)
+- [x] [Contains Duplicate II](Easy/Contains-Duplicate-II.swift)
+- [x] [Largest Perimeter Triangle](Easy/Largest-Perimeter-Triangle.swift)
+- [x] [Range Sum Query - Immutable](Easy/Range-Sum-Query-Immutable.swift)
 
-##### Medium 🤔 ![Algorithms](https://img.shields.io/badge/Problems-6_Complete-green.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-6_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
 - [x] [Add Two Numbers](Medium/Add-Two-Numbers.swift)
 - [x] [Increasing Triplet Subsequence](Medium/Increasing-Triplet-Subsequence.swift)
 - [x] [Find the Index of the First Occurrence in a String](Medium/Find-the-Index-of-the-First-Occurrence-in-a-String.swift)
+- [x] [Reverse Integer](Medium/Reverse-Integer.swift)
 
-##### Hard 🥺 ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
+##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
 
 
