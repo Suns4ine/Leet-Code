@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-43_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-51_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-37_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-44_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -44,6 +44,8 @@
 - [x] [Contains Duplicate II](Easy/Contains-Duplicate-II.swift)
 - [x] [Largest Perimeter Triangle](Easy/Largest-Perimeter-Triangle.swift)
 - [x] [Range Sum Query - Immutable](Easy/Range-Sum-Query-Immutable.swift)
+- [x] [Find Pivot Index](Easy/Find-Pivot-Index.swift)
+
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-6_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
