@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-51_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-59_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-44_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-50_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -45,9 +45,15 @@
 - [x] [Largest Perimeter Triangle](Easy/Largest-Perimeter-Triangle.swift)
 - [x] [Range Sum Query - Immutable](Easy/Range-Sum-Query-Immutable.swift)
 - [x] [Find Pivot Index](Easy/Find-Pivot-Index.swift)
+- [x] [Find the Middle Index in Array](Easy/Find-the-Middle-Index-in-Array.swift)
+- [x] [Minimum Value to Get Positive Step by Step Sum](Easy/Minimum-Value-to-Get-Positive-Step-by-Step-Sum.swift)
+- [x] [Running Sum of 1d Array](Easy/Running-Sum-of-1d-Array.swift)
+- [x] [Sum of All Odd Length Subarrays](Easy/Sum-of-All-Odd-Length-Subarrays.swift)
+- [x] [Find the Highest Altitude](Easy/Find-the-Highest-Altitude.swift)
+- [x] [Delete Node in a Linked List](Easy/Delete-Node-in-a-Linked-List.swift)
+- [x] [Check if All the Integers in a Range Are Covered](Easy/Check-if-All-the-Integers-in-a-Range-Are-Covered.swift)
 
-
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-6_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-9_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -55,6 +61,7 @@
 - [x] [Increasing Triplet Subsequence](Medium/Increasing-Triplet-Subsequence.swift)
 - [x] [Find the Index of the First Occurrence in a String](Medium/Find-the-Index-of-the-First-Occurrence-in-a-String.swift)
 - [x] [Reverse Integer](Medium/Reverse-Integer.swift)
+- [x] [Maximum Sum of an Hourglass](Medium/Maximum-Sum-of-an-Hourglass.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
 
