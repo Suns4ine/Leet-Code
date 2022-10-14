@@ -17,28 +17,22 @@ import Foundation
  *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
  * }
  */
+
 class Solution {
-    func middleNode(_ head: ListNode?) -> ListNode? {
-        guard var head = head else { return nil }
-        var arr = [head.val]
+    func deleteMiddle(_ head: ListNode?) -> ListNode? {
+        guard head?.next != nil else { return nil }
         
-        while let next = head.next {
-            arr.append(next.val)
-            head = next
+        var fast = head
+        var slow = head
+        var midle: ListNode?
+        
+        while fast?.next != nil {
+            fast = fast?.next?.next
+            midle = slow
+            slow = slow?.next
         }
         
-        let min = arr.count / 2
-        var max = arr.count - 1
-        var list = ListNode(arr[max])
-        
-        max -= 1
-        
-        while min <= max {
-            let next = ListNode(arr[max], list)
-            max -= 1
-            list = next
-        }
-        
-        return list
+        midle?.next = slow?.next
+        return head
     }
 }

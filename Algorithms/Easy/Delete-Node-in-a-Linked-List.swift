@@ -1,5 +1,5 @@
 //
-//  Delete Node in a Linked List.swift
+//  Delete-Node-in-a-Linked-List.swift
 //  
 //
 //  Created by Vyacheslav Pronin on 13.10.2022.
