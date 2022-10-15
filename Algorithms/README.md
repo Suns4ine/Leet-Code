@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-63_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-67_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-52_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-55_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -54,8 +54,11 @@
 - [x] [Check if All the Integers in a Range Are Covered](Easy/Check-if-All-the-Integers-in-a-Range-Are-Covered.swift)
 - [x] [Longest Subsequence- With Limited Sum](Easy/Longest-Subsequence-With-Limited-Sum.swift)
 - [x] [Majority-Element](Easy/Majority-Element.swift)
+- [x] [Fixed Point](Easy/Fixed-Point.swift)
+- [x] [Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array](Easy/Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array.swift)
+- [x] [Intersection of Three Sorted Arrays](Easy/Intersection-of-Three-Sorted-Arrays.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-11_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-12_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -66,7 +69,9 @@
 - [x] [Maximum Sum of an Hourglass](Medium/Maximum-Sum-of-an-Hourglass.swift)
 - [x] [Delete-the-Middle-Node-of-a-Linked-List](Medium/Delete-the-Middle-Node-of-a-Linked-List.swift)
 - [x] [Meeting Rooms II](Medium/Meeting-Rooms-II.swift)
+- [x] [Subarray Sum Equals K](Medium/Subarray-Sum-Equals-K.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
+
 
 
