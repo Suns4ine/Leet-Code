@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-79_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-84_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-65_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-70_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -67,6 +67,11 @@
 - [x] [Valid Anagram](Easy/Valid-Anagram.swift)
 - [x] [Valid Palindrome II](Easy/Valid-Palindrome-II.swift)
 - [x] [Check if the Sentence Is Pangram](Easy/Check-if-the-Sentence-Is-Pangram.swift)
+- [x] [Happy Number](Easy/Happy-Number.swift)
+- [x] [Is Subsequence](Easy/Is-Subsequence.swift)
+- [x] [Reverse String II](Easy/Reverse-String-II.swift)
+- [x] [Backspace String Compare](Easy/Backspace-String-Compare.swift)
+- [x] [Assign Cookies](Easy/Assign-Cookies.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-13_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
