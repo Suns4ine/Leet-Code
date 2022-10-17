@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-67_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-79_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-59_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-65_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -62,6 +62,11 @@
 - [x] [Unique Number of Occurrences](Easy/Unique-Number-of-Occurrences.swift)
 - [x] [Palindrome Linked List](Easy/Palindrome-Linked-List.swift)
 - [x] [Reverse Linked List](Easy/Reverse-Linked-List.swift)
+- [x] [Pascal's Triangle](Easy/Pascal's-Triangle.swift)
+- [x] [Add Two Integers](Easy/Add-Two-Integers.swift)
+- [x] [Valid Anagram](Easy/Valid-Anagram.swift)
+- [x] [Valid Palindrome II](Easy/Valid-Palindrome-II.swift)
+- [x] [Check if the Sentence Is Pangram](Easy/Check-if-the-Sentence-Is-Pangram.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-13_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
@@ -77,7 +82,7 @@
 - [x] [Subarray Sum Equals K](Medium/Subarray-Sum-Equals-K.swift)
 - [x] [Product of Array Except Self](Medium/Product-of-Array-Except-Self.swift)
 
-##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-0_Complete-red.svg) 
-
+##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
+- [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
 
 
