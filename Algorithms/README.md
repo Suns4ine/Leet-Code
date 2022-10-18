@@ -72,6 +72,11 @@
 - [x] [Reverse String II](Easy/Reverse-String-II.swift)
 - [x] [Backspace String Compare](Easy/Backspace-String-Compare.swift)
 - [x] [Assign Cookies](Easy/Assign-Cookies.swift)
+- [x] [Intersection of Two Linked Lists](Easy/Intersection-of-Two-Linked-Lists.swift)
+- [x] [Flipping an Image](Easy/Flipping-an-Image.swift)
+- [x] [Valid Word Abbreviation](Easy/Valid-Word-Abbreviation.swift)
+- [x] [Sort Array By Parity](Easy/Sort-Array-By-Parity.swift)
+- [x] [Valid Palindrome](Easy/Valid-Palindrome.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-13_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
