@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-84_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-95_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-70_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-79_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -77,8 +77,12 @@
 - [x] [Valid Word Abbreviation](Easy/Valid-Word-Abbreviation.swift)
 - [x] [Sort Array By Parity](Easy/Sort-Array-By-Parity.swift)
 - [x] [Valid Palindrome](Easy/Valid-Palindrome.swift)
+- [x] [Maximum Units on a Truck](Easy/Maximum-Units-on-a-Truck.swift)
+- [x] [Can Place Flowers](Easy/Can-Place-Flowers.swift)
+- [x] [Partition Array Into Three Parts With Equal Sum](Easy/Partition-Array-Into-Three-Parts-With-Equal-Sum.swift)
+- [x] [Two Sum Less Than K](Easy/Two-Sum-Less-Than-K.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-13_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-15_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -91,6 +95,8 @@
 - [x] [Meeting Rooms II](Medium/Meeting-Rooms-II.swift)
 - [x] [Subarray Sum Equals K](Medium/Subarray-Sum-Equals-K.swift)
 - [x] [Product of Array Except Self](Medium/Product-of-Array-Except-Self.swift)
+- [x] [Count and Say](Medium/Count-and-Say.swift)
+- [x] [Top K Frequent Words](Medium/Top-K-Frequent-Words.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
