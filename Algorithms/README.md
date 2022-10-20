@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-95_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-99_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-79_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-81_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -81,8 +81,10 @@
 - [x] [Can Place Flowers](Easy/Can-Place-Flowers.swift)
 - [x] [Partition Array Into Three Parts With Equal Sum](Easy/Partition-Array-Into-Three-Parts-With-Equal-Sum.swift)
 - [x] [Two Sum Less Than K](Easy/Two-Sum-Less-Than-K.swift)
+- [x] [Logger Rate Limiter](Easy/Logger-Rate-Limiter.swift)
+- [x] [Power of Two](Easy/Power-of-Two.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-15_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-17_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -97,6 +99,8 @@
 - [x] [Product of Array Except Self](Medium/Product-of-Array-Except-Self.swift)
 - [x] [Count and Say](Medium/Count-and-Say.swift)
 - [x] [Top K Frequent Words](Medium/Top-K-Frequent-Words.swift)
+- [x] [Integer to Roman](Medium/Integer-to-Roman.swift)
+- [x] [Time Based Key-Value Store](Medium/Time-Based-Key-Value-Store.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
