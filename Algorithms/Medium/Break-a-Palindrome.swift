@@ -9,16 +9,10 @@ import Foundation
 
 class Solution {
     func breakPalindrome(_ palindrome: String) -> String {
-        guard palindrome.count > 1,
-              let startIndex = Character("a").asciiValue,
-              let endIndex = Character("z").asciiValue
-        else { return "" }
-        
+        guard palindrome.count > 1 else { return "" }
         var palindrome = Array(palindrome)
-        
-    outerLoop: for index in startIndex...endIndex {
-        var firstIndex = 0
         let middleIndex = palindrome.count % 2 == 0 ? (palindrome.count + 1) / 2 : palindrome.count / 2
+        var firstIndex = 0
         
         while firstIndex < palindrome.count - 1 {
             if firstIndex == middleIndex {
@@ -26,19 +20,16 @@ class Solution {
                 continue
             }
             
-            if let sumbAscii = palindrome[firstIndex].asciiValue,
-               sumbAscii > index {
-                palindrome[firstIndex] = Character(UnicodeScalar(index))
-                break outerLoop
+            if palindrome[firstIndex] > "a" {
+                palindrome[firstIndex] = "a"
+                break
             }
             firstIndex += 1
         }
         
         if firstIndex == palindrome.count - 1 {
-            palindrome[firstIndex] = index == startIndex ? Character(UnicodeScalar(index + 1)) : Character(UnicodeScalar(index - 1))
-            break outerLoop
+            palindrome[firstIndex] = palindrome[firstIndex] == "a" ? "b" : "a"
         }
-    }
         
         return String(palindrome)
     }
