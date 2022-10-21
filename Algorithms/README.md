@@ -83,6 +83,9 @@
 - [x] [Two Sum Less Than K](Easy/Two-Sum-Less-Than-K.swift)
 - [x] [Logger Rate Limiter](Easy/Logger-Rate-Limiter.swift)
 - [x] [Power of Two](Easy/Power-of-Two.swift)
+- [x] [DI String Match](Easy/DI-String-Match.swift)
+- [x] [Lemonade Change](Easy/Lemonade-Change.swift)
+- [x] [Split a String in Balanced Strings](Easy/Split-a-String-in-Balanced-Strings.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-17_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
