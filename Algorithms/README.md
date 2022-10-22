@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-99_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-107_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-81_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-88_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -86,8 +86,12 @@
 - [x] [DI String Match](Easy/DI-String-Match.swift)
 - [x] [Lemonade Change](Easy/Lemonade-Change.swift)
 - [x] [Split a String in Balanced Strings](Easy/Split-a-String-in-Balanced-Strings.swift)
+- [x] [Remove Digit From Number to Maximize Result](Easy/Remove-Digit-From-Number-to-Maximize-Result.swift)
+- [x] [Summary Ranges](Easy/Summary-Ranges.swift)
+- [x] [Jewels and Stones](Easy/Jewels-and-Stones.swift)
+- [x] [Number of Students Doing Homework at a Given Time](Easy/Number-of-Students-Doing-Homework-at-a-Given-Time.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-17_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-18_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -104,6 +108,7 @@
 - [x] [Top K Frequent Words](Medium/Top-K-Frequent-Words.swift)
 - [x] [Integer to Roman](Medium/Integer-to-Roman.swift)
 - [x] [Time Based Key-Value Store](Medium/Time-Based-Key-Value-Store.swift)
+- [x] [Line Reflection](Medium/Line-Reflection.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
