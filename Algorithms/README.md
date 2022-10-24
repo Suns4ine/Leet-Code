@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-107_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-111_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-88_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-92_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -92,6 +92,12 @@
 - [x] [First Unique Character in a String](Easy/First-Unique-Character-in-a-String.swift)
 - [x] [Add Strings](Easy/Add-Strings.swift)
 - [x] [Set Mismatch](Easy/Set-Mismatch.swift)
+- [x] [Keyboard Row](Easy/Keyboard-Row.swift)
+- [x] [Longest Subsequence With Limited Sum](Easy/Longest-Subsequence-With-Limited-Sum.swift)
+- [x] [Add Binary](Easy/Add-Binary.swift)
+- [x] [Majority Element](Easy/Majority-Element.swift)
+- [x] [Check If a Number Is Majority Element in a Sorted Array](Easy/Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array.swift)
+- [x] [Minimum Cost to Move Chips to The Same Position](Easy/Minimum-Cost-to-Move-Chips-to-The-Same-Position.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-18_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
