@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-111_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-121_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-92_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-101_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -98,8 +98,15 @@
 - [x] [Majority Element](Easy/Majority-Element.swift)
 - [x] [Check If a Number Is Majority Element in a Sorted Array](Easy/Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array.swift)
 - [x] [Minimum Cost to Move Chips to The Same Position](Easy/Minimum-Cost-to-Move-Chips-to-The-Same-Position.swift)
+- [x] [How Many Apples Can You Put into the Basket](Easy/How-Many-Apples-Can-You-Put-into-the-Basket.swift)
+- [x] [Longest Palindrome](Easy/Longest-Palindrome.swift)
+- [x] [Check If Two String Arrays are Equivalent](Easy/Check-If-Two-String-Arrays-are-Equivalent.swift)
+- [x] [Array Partition](Easy/Array-Partition.swift)
+- [x] [Maximize Sum Of Array After K Negations](Easy/Maximize-Sum-Of-Array-After-K-Negations.swift)
+- [x] [Minimum Subsequence in Non-Increasing Order](Easy/Minimum-Subsequence-in-Non-Increasing-Order.swift)
+- [x] [Largest Subarray Length K](Easy/Largest-Subarray-Length-K.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-18_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-19_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -118,6 +125,7 @@
 - [x] [Integer to Roman](Medium/Integer-to-Roman.swift)
 - [x] [Time Based Key-Value Store](Medium/Time-Based-Key-Value-Store.swift)
 - [x] [Line Reflection](Medium/Line-Reflection.swift)
+- [x] [Maximum Length of a Concatenated String with Unique Characters](Medium/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
