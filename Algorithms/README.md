@@ -105,6 +105,11 @@
 - [x] [Maximize Sum Of Array After K Negations](Easy/Maximize-Sum-Of-Array-After-K-Negations.swift)
 - [x] [Minimum Subsequence in Non-Increasing Order](Easy/Minimum-Subsequence-in-Non-Increasing-Order.swift)
 - [x] [Largest Subarray Length K](Easy/Largest-Subarray-Length-K.swift)
+- [x] [Latest Time by Replacing Hidden Digits](Easy/Latest-Time-by-Replacing-Hidden-Digits.swift)
+- [x] [Minimum Operations to Make the Array Increasing](Easy/Minimum-Operations-to-Make-the-Array-Increasing.swift)
+- [x] [Largest Odd Number in String](Easy/Largest-Odd-Number-in-String.swift)
+- [x] [Minimum Time to Type Word Using Special Typewriter](Easy/Minimum-Time-to-Type-Word-Using-Special-Typewriter.swift)
+- [x] [Minimum Moves to Convert String](Easy/Minimum-Moves-to-Convert-String.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-19_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
