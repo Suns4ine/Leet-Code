@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-121_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-131_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-101_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-110_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -110,8 +110,12 @@
 - [x] [Largest Odd Number in String](Easy/Largest-Odd-Number-in-String.swift)
 - [x] [Minimum Time to Type Word Using Special Typewriter](Easy/Minimum-Time-to-Type-Word-Using-Special-Typewriter.swift)
 - [x] [Minimum Moves to Convert String](Easy/Minimum-Moves-to-Convert-String.swift)
+- [x] [Minimum Cost of Buying Candies With Discount](Easy/Minimum-Cost-of-Buying-Candies-With-Discount.swift)
+- [x] [Two Furthest Houses With Different Colors](Easy/Two-Furthest-Houses-With-Different-Colors.swift)
+- [x] [Minimum Sum of Four Digit Number After Splitting Digits](Easy/Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.swift)
+- [x] [Minimum Number of Operations to Convert Time](Easy/Minimum-Number-of-Operations-to-Convert-Time.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-19_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-20_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
