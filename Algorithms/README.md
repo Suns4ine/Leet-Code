@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-131_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-133_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-110_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-111_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -114,8 +114,9 @@
 - [x] [Two Furthest Houses With Different Colors](Easy/Two-Furthest-Houses-With-Different-Colors.swift)
 - [x] [Minimum Sum of Four Digit Number After Splitting Digits](Easy/Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.swift)
 - [x] [Minimum Number of Operations to Convert Time](Easy/Minimum-Number-of-Operations-to-Convert-Time.swift)
+- [x] [Minimum Amount of Time to Fill Cups](Easy/Minimum-Amount-of-Time-to-Fill-Cups.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-20_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-21_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -135,6 +136,7 @@
 - [x] [Time Based Key-Value Store](Medium/Time-Based-Key-Value-Store.swift)
 - [x] [Line Reflection](Medium/Line-Reflection.swift)
 - [x] [Maximum Length of a Concatenated String with Unique Characters](Medium/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.swift)
+- [x] [Group Anagrams](Medium/Group-Anagrams.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
