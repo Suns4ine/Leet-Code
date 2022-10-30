@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-135_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-137_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-113_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-115_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -117,6 +117,8 @@
 - [x] [Minimum Amount of Time to Fill Cups](Easy/Minimum-Amount-of-Time-to-Fill-Cups.swift)
 - [x] [Ugly Number](Easy/Ugly-Number.swift)
 - [x] [Palindrome Permutation](Easy/Palindrome-Permutation.swift)
+- [x] [Power of Four](Easy/Power-of-Four.swift)
+- [x] [Find the Difference](Easy/Find-the-Difference.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-21_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
