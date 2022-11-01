@@ -121,6 +121,8 @@
 - [x] [Find the Difference](Easy/Find-the-Difference.swift)
 - [x] [Toeplitz Matrix](Easy/Toeplitz-Matrix.swift)
 - [x] [Base 7](Easy/Base-7.swift)
+- [x] [Count Odd Numbers in an Interval Range](Easy/Count-Odd-Numbers-in-an-Interval-Range.swift)
+- [x] [Average Salary Excluding the Minimum and Maximum Salary](Easy/Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-21_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
@@ -143,8 +145,7 @@
 - [x] [Line Reflection](Medium/Line-Reflection.swift)
 - [x] [Maximum Length of a Concatenated String with Unique Characters](Medium/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.swift)
 - [x] [Group Anagrams](Medium/Group-Anagrams.swift)
+- [x] [Find Smallest Common Element in All Rows](Medium/Find-Smallest-Common-Element-in-All-Rows.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
-
-
