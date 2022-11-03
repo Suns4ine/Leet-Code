@@ -9,19 +9,18 @@ import Foundation
 
 class Solution {
     func longestCommonPrefix(_ strs: [String]) -> String {
-    var result = ""
-    let strs = strs.sorted()
-    let first = Array(strs.first ?? "")
-    let last = Array(strs.last ?? "")
-
-    if first.count - 1 >= 0 {
-        for i in 0...first.count - 1 {
-            if first[i] != last[i] {
-                return result
+        guard !strs.isEmpty else { return "" }
+        var result = strs[0]
+        
+        for str in strs {
+            guard !result.isEmpty else { break }
+            if !str.hasPrefix(result) {
+                while !result.isEmpty && !str.hasPrefix(result) {
+                    result.removeLast()
+                }
             }
-            result += String(first[i])
         }
-    }
-    return result
+        
+        return result
     }
 }

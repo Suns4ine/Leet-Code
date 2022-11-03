@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-146_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-149_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-121_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-122_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -125,8 +125,9 @@
 - [x] [Average Salary Excluding the Minimum and Maximum Salary](Easy/Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.swift)
 - [x] [Number of 1 Bits](Easy/Number-of-1-Bits.swift)
 - [x] [Subtract the Product and Sum of Digits of an Integer](Easy/Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.swift)
+- [x] [Intersection of Multiple Arrays](Easy/Intersection-of-Multiple-Arrays.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-24_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -150,6 +151,7 @@
 - [x] [Find Smallest Common Element in All Rows](Medium/Find-Smallest-Common-Element-in-All-Rows.swift)
 - [x] [Where Will the Ball Fall](Medium/Where-Will-the-Ball-Fall.swift)
 - [x] [Peak Index in a Mountain Array](Medium/Peak-Index-in-a-Mountain-Array.swift)
+- [x] [Longest Palindrome by Concatenating Two Letter Words](Medium/Longest-Palindrome-by-Concatenating-Two-Letter-Words.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
