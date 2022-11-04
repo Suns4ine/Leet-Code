@@ -126,6 +126,10 @@
 - [x] [Number of 1 Bits](Easy/Number-of-1-Bits.swift)
 - [x] [Subtract the Product and Sum of Digits of an Integer](Easy/Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.swift)
 - [x] [Intersection of Multiple Arrays](Easy/Intersection-of-Multiple-Arrays.swift)
+- [x] [Reverse Vowels of a String](Easy/Reverse-Vowels-of-a-String.swift)
+- [x] [Check if One String Swap Can Make Strings Equal](Easy/Check-if-One-String-Swap-Can-Make-Strings-Equal.swift)
+- [x] [Can Make Arithmetic Progression From Sequence](Easy/Can-Make-Arithmetic-Progression-From-Sequence.swift)
+- [x] [Sign of the Product of an Array](Easy/Sign-of-the-Product-of-an-Array.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
