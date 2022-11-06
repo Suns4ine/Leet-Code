@@ -159,5 +159,5 @@
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
-- [x] [Word-Search II](Hard/Word-Search-II.swift)
-
+- [x] [Word Search II](Hard/Word-Search-II.swift)
+- [x] [Orderly Queue](Hard/Orderly-Queue.swift)
