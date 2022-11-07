@@ -156,6 +156,7 @@
 - [x] [Where Will the Ball Fall](Medium/Where-Will-the-Ball-Fall.swift)
 - [x] [Peak Index in a Mountain Array](Medium/Peak-Index-in-a-Mountain-Array.swift)
 - [x] [Longest Palindrome by Concatenating Two Letter Words](Medium/Longest-Palindrome-by-Concatenating-Two-Letter-Words.swift)
+- [x] [Partition Labels](Medium/Partition-Labels.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
