@@ -130,6 +130,7 @@
 - [x] [Check if One String Swap Can Make Strings Equal](Easy/Check-if-One-String-Swap-Can-Make-Strings-Equal.swift)
 - [x] [Can Make Arithmetic Progression From Sequence](Easy/Can-Make-Arithmetic-Progression-From-Sequence.swift)
 - [x] [Sign of the Product of an Array](Easy/Sign-of-the-Product-of-an-Array.swift)
+- [x] [Make The String Great](Easy/Make-The-String-Great.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
