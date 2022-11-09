@@ -131,6 +131,10 @@
 - [x] [Can Make Arithmetic Progression From Sequence](Easy/Can-Make-Arithmetic-Progression-From-Sequence.swift)
 - [x] [Sign of the Product of an Array](Easy/Sign-of-the-Product-of-an-Array.swift)
 - [x] [Make The String Great](Easy/Make-The-String-Great.swift)
+- [x] [Goal Parser Interpretation](Easy/Goal-Parser-Interpretation.swift)
+- [x] [Merge Strings Alternately](Easy/Merge-Strings-Alternately.swift)
+- [x] [To Lower Case](Easy/To-Lower-Case.swift)
+- [x] [Decrypt String from Alphabet to Integer Mapping](Easy/Decrypt-String-from-Alphabet-to-Integer-Mapping.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
