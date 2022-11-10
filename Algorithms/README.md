@@ -135,6 +135,7 @@
 - [x] [Merge Strings Alternately](Easy/Merge-Strings-Alternately.swift)
 - [x] [To Lower Case](Easy/To-Lower-Case.swift)
 - [x] [Decrypt String from Alphabet to Integer Mapping](Easy/Decrypt-String-from-Alphabet-to-Integer-Mapping.swift)
+- [x] [Remove All Adjacent Duplicates In String](Easy/Remove-All-Adjacent-Duplicates-In-String.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
@@ -162,6 +163,7 @@
 - [x] [Peak Index in a Mountain Array](Medium/Peak-Index-in-a-Mountain-Array.swift)
 - [x] [Longest Palindrome by Concatenating Two Letter Words](Medium/Longest-Palindrome-by-Concatenating-Two-Letter-Words.swift)
 - [x] [Partition Labels](Medium/Partition-Labels.swift)
+- [x] [Online Stock Span](Medium/Online-Stock-Span.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
