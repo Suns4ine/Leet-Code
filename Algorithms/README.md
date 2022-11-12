@@ -1,7 +1,7 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-149_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-168_Complete-orange.svg) 
 
-##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-122_Complete-darkgreen.svg) 
+##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-135_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
 - [x] [Palindrome Number](Easy/Palindrome-Number.swift) 
 - [x] [Roman to Integer](Easy/Roman-to-Integer.swift) 
@@ -136,8 +136,9 @@
 - [x] [To Lower Case](Easy/To-Lower-Case.swift)
 - [x] [Decrypt String from Alphabet to Integer Mapping](Easy/Decrypt-String-from-Alphabet-to-Integer-Mapping.swift)
 - [x] [Remove All Adjacent Duplicates In String](Easy/Remove-All-Adjacent-Duplicates-In-String.swift)
+- [x] [Special Array With X Elements Greater Than or Equal X](Easy/Special-Array-With-X-Elements-Greater-Than-or-Equal-X.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-26_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-30_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -164,8 +165,11 @@
 - [x] [Longest Palindrome by Concatenating Two Letter Words](Medium/Longest-Palindrome-by-Concatenating-Two-Letter-Words.swift)
 - [x] [Partition Labels](Medium/Partition-Labels.swift)
 - [x] [Online Stock Span](Medium/Online-Stock-Span.swift)
+- [x] [Find First and Last Position of Element in Sorted Array](Medium/Find-First-and-Last-Position-of-Element-in-Sorted-Array.swift)
+- [x] [Two Sum II - Input Array Is Sorted](Medium/Two-Sum-II-Input-Array-Is-Sorted.swift)
+- [x] [Search a 2D Matrix](Medium/Search-a-2D-Matrix.swift)
 
-##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-1_Complete-darkgreen.svg) 
+##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-3_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
 - [x] [Word Search II](Hard/Word-Search-II.swift)
 - [x] [Orderly Queue](Hard/Orderly-Queue.swift)
