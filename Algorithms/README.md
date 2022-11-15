@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Problems-178_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Problems-181_Complete-orange.svg) 
 
 ##### Easy 🤓  ![Algorithms](https://img.shields.io/badge/Problems-138_Complete-darkgreen.svg) 
 - [x] [Two sum](Easy/TwoSum.swift)
@@ -141,7 +141,7 @@
 - [x] [Implement Queue using Stacks](Easy/Implement-Queue-using-Stacks.swift)
 - [x] [Sort Integers by The Number of 1 Bits](Easy/Sort-Integers-by-The-Number-of-1-Bits.swift)
 
-##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-36_Complete-darkgreen.svg) 
+##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-39_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
 - [x] [Break a Palindrome](Medium/Break-a-Palindrome.swift)
 - [x] [Rotate Array](Medium/Rotate-Array.swift)
@@ -177,6 +177,8 @@
 - [x] [Maximum Distance Between a Pair of Values](Medium/Maximum-Distance-Between-a-Pair-of-Values.swift)
 - [x] [Nested List Weight Sum](Medium/Nested-List-Weight-Sum.swift)
 - [x] [Reverse Words in a String](Medium/Reverse-Words-in-a-String.swift)
+- [x] [Most Stones Removed with Same Row or Column](Medium/Most-Stones-Removed-with-Same-Row-or-Column.swift)
+- [x] [Count Complete Tree Nodes](Medium/Count-Complete-Tree-Nodes.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-4_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
