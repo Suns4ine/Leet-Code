@@ -180,6 +180,8 @@
 - [x] [Reverse Words in a String](Medium/Reverse-Words-in-a-String.swift)
 - [x] [Most Stones Removed with Same Row or Column](Medium/Most-Stones-Removed-with-Same-Row-or-Column.swift)
 - [x] [Count Complete Tree Nodes](Medium/Count-Complete-Tree-Nodes.swift)
+- [x] [Rectangle Area](Medium/Rectangle-Area.swift)
+- [x] [Multiply Strings](Medium/Multiply-Strings.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-4_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
