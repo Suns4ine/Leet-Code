@@ -141,6 +141,7 @@
 - [x] [Implement Queue using Stacks](Easy/Implement-Queue-using-Stacks.swift)
 - [x] [Sort Integers by The Number of 1 Bits](Easy/Sort-Integers-by-The-Number-of-1-Bits.swift)
 - [x] [Flip Game](Easy/Flip-Game.swift)
+- [x] [Ransom Note](Easy/Ransom-Note.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-39_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
