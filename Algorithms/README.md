@@ -184,8 +184,10 @@
 - [x] [Rectangle Area](Medium/Rectangle-Area.swift)
 - [x] [Multiply Strings](Medium/Multiply-Strings.swift)
 
-##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-4_Complete-darkgreen.svg) 
+##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
 - [x] [Word Search II](Hard/Word-Search-II.swift)
 - [x] [Orderly Queue](Hard/Orderly-Queue.swift)
 - [x] [Find Median from Data Stream](Hard/Find-Median-from-Data-Stream.swift)
+- [x] [Erect the Fence](Hard/Erect-the-Fence.swift)
+
