@@ -183,6 +183,7 @@
 - [x] [Count Complete Tree Nodes](Medium/Count-Complete-Tree-Nodes.swift)
 - [x] [Rectangle Area](Medium/Rectangle-Area.swift)
 - [x] [Multiply Strings](Medium/Multiply-Strings.swift)
+- [x] [Nearest Exit from Entrance in Maze](Medium/Nearest-Exit-from-Entrance-in-Maze.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
