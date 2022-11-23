@@ -185,6 +185,7 @@
 - [x] [Multiply Strings](Medium/Multiply-Strings.swift)
 - [x] [Nearest Exit from Entrance in Maze](Medium/Nearest-Exit-from-Entrance-in-Maze.swift)
 - [x] [Perfect Squares](Medium/Perfect-Squares.swift)
+- [x] [Valid Sudoku](Medium/Valid-Sudoku.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
