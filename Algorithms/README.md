@@ -187,6 +187,7 @@
 - [x] [Perfect Squares](Medium/Perfect-Squares.swift)
 - [x] [Valid Sudoku](Medium/Valid-Sudoku.swift)
 - [x] [Word Search](Medium/Word-Search.swift)
+- [x] [Sum of Subarray Minimums](Medium/Sum-of-Subarray-Minimums.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
