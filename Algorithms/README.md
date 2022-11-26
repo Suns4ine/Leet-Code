@@ -195,4 +195,4 @@
 - [x] [Orderly Queue](Hard/Orderly-Queue.swift)
 - [x] [Find Median from Data Stream](Hard/Find-Median-from-Data-Stream.swift)
 - [x] [Erect the Fence](Hard/Erect-the-Fence.swift)
-
+- [x] [Maximum Profit in Job Scheduling](Hard/Maximum-Profit-in-Job-Scheduling.swift)
