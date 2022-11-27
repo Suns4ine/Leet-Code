@@ -196,3 +196,4 @@
 - [x] [Find Median from Data Stream](Hard/Find-Median-from-Data-Stream.swift)
 - [x] [Erect the Fence](Hard/Erect-the-Fence.swift)
 - [x] [Maximum Profit in Job Scheduling](Hard/Maximum-Profit-in-Job-Scheduling.swift)
+- [x] [Arithmetic Slices II - Subsequence](Hard/Arithmetic-Slices-II-Subsequence.swift)
