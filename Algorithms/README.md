@@ -190,6 +190,7 @@
 - [x] [Sum of Subarray Minimums](Medium/Sum-of-Subarray-Minimums.swift)
 - [x] [Find Players With Zero or One Losses](Medium/Find-Players-With-Zero-or-One-Losses.swift)
 - [x] [Insert Delete GetRandom O(1)](Medium/Insert-Delete-GetRandom-O(1).swift)
+- [x] [Strobogrammatic Number](Medium/Strobogrammatic-Number.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
