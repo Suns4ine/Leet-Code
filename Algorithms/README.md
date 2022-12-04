@@ -194,6 +194,7 @@
 - [x] [Strobogrammatic Number](Medium/Strobogrammatic-Number.swift)
 - [x] [Determine if Two Strings Are Close](Medium/Determine-if-Two-Strings-Are-Close.swift)
 - [x] [Sort Characters By Frequency](Medium/Sort-Characters-By-Frequency.swift)
+- [x] [Minimum Average Difference](Medium/Minimum-Average-Difference.swift)
 
 ##### Hard 🥺  ![Algorithms](https://img.shields.io/badge/Problems-5_Complete-darkgreen.svg) 
 - [x] [Trapping Rain Water](Hard/Trapping-Rain-Water.swift)
