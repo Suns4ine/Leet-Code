@@ -144,6 +144,7 @@
 - [x] [Ransom Note](Easy/Ransom-Note.swift)
 - [x] [Determine if String Halves Are Alike](Easy/Determine-if-String-Halves-Are-Alike.swift)
 - [x] [Single-Row Keyboard](Easy/Single-Row-Keyboard.swift)
+- [x] [Range Sum of BST](Easy/Range-Sum-of-BST.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-39_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
