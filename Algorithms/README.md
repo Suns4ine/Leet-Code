@@ -209,3 +209,4 @@
 - [x] [Erect the Fence](Hard/Erect-the-Fence.swift)
 - [x] [Maximum Profit in Job Scheduling](Hard/Maximum-Profit-in-Job-Scheduling.swift)
 - [x] [Arithmetic Slices II - Subsequence](Hard/Arithmetic-Slices-II-Subsequence.swift)
+- [x] [Binary Tree Maximum Path Sum Hard](Hard/Binary-Tree-Maximum-Path-Sum-Hard.swift)
