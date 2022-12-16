@@ -146,6 +146,7 @@
 - [x] [Single-Row Keyboard](Easy/Single-Row-Keyboard.swift)
 - [x] [Range Sum of BST](Easy/Range-Sum-of-BST.swift)
 - [x] [Leaf-Similar Trees](Easy/Leaf-Similar-Trees.swift)
+- [x] [Remove Linked List Elements](Easy/Remove-Linked-List-Elements.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-39_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
