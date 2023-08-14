@@ -165,6 +165,7 @@
 - [x] [Maximum Depth of Binary Tree](Easy/Maximum-Depth-of-Binary-Tree.swift)
 - [x] [Binary Tree Inorder Traversal](Easy/Binary-Tree-Inorder-Traversal.swift)
 - [x] [Binary Tree Postorder Traversal](Easy/Binary-Tree-Postorder-Traversal.swift)
+- [x] [Find the Town Judge](Easy/Find-the-Town-Judge.swift)
 
 ##### Medium 🤔  ![Algorithms](https://img.shields.io/badge/Problems-73_Complete-darkgreen.svg) 
 - [x] [Maximum Subarray](Medium/Maximum-Subarray.swift)
@@ -252,3 +253,4 @@
 - [x] [Max Points on a Line](Hard/Max-Points-on-a-Line.swift)
 - [x] [Longest Path With Different Adjacent Characters](Hard/Longest-Path-With-Different-Adjacent-Characters.swift)
 - [x] [Number of Good Paths](Hard/Number-of-Good-Paths.swift)
+- [x] [Data Stream as Disjoint Intervals](Hard/Data-Stream-as-Disjoint-Intervals.swift)
